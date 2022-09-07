@@ -7,4 +7,4 @@ Arrow up/down increase/decrease the artificial noise level.
 
 ## How it works
 
-This is a simple implementation of hyperbolic Triangulation using a numerical iterative solver. Hyperbolic triangulation can be used to locate a single source using multiple receivers.
+This is a simple implementation of hyperbolic Triangulation using a numerical solver. Hyperbolic triangulation can be used to locate a single source using multiple receivers.
